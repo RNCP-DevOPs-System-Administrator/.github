@@ -1,7 +1,7 @@
 # Titre Professionnel « Administrateur Système DevOps » (RNCP 36061)  
 *Certification de niveau 6 (Bac +3/4) – France Compétences*  
 
-## Le contenu de ce site présente mes réalisations dans le cadre de ce Titre Professionnel  « Administrateur Système DevOps »  : [Travaux d'Evaluations rendus](https://github.com/orgs/RNCP-DevOPs-System-Administrator/repositories)  ##
+## Le contenu de ce site présente mes réalisations dans le cadre de ce Titre Professionnel  « Administrateur Système DevOps »  : [Travaux d'Evaluations réalisés](https://github.com/orgs/RNCP-DevOPs-System-Administrator/repositories)  ##
 
 ## 🎯 Présentation  
 - La certification « Administrateur Système DevOps » vise à former des professionnels capables de prendre en charge l’automatisation, le déploiement, la supervision et l’exploitation d’infrastructures et d’applications dans un contexte DevOps. 
