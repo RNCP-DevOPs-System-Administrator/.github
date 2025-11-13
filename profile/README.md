@@ -18,9 +18,9 @@
 La certification est organisée en **trois blocs de compétences** (BC) :  
 | Bloc | Intitulé | Contenu résumé |
 |------|----------|--------------|
-| **BC01** | Automatiser le déploiement d’une infrastructure dans le cloud | scripts, serveurs virtuels, sécurité, production cloud |
-| **BC02** | Déployer en continu une application | environnement de test, stockage, containers, CI/CD  |
-| **BC03** | Superviser les services déployés | indicateurs de service, solutions de supervision, anglais professionnel |
+| **BC01** | [Automatiser le déploiement d’une infrastructure dans le cloud](https://github.com/RNCP-DevOPs-System-Administrator/DevOps-Bloc1-2-3_Courses/tree/main/Automatisation_du_deploiement_Infrastructure_dans_le_Cloud) | scripts, serveurs virtuels, sécurité, production cloud |
+| **BC02** | [Déployer en continu une application](https://github.com/RNCP-DevOPs-System-Administrator/DevOps-Bloc1-2-3_Courses/tree/main/Deploiement_application_en_continu) | environnement de test, stockage, containers, CI/CD  |
+| **BC03** | [Superviser les services déployés](https://github.com/RNCP-DevOPs-System-Administrator/DevOps-Bloc1-2-3_Courses/tree/main/Supervision_des_services_deployes) | indicateurs de service, solutions de supervision, anglais professionnel |
 
 ## 🎓 Niveau & certification  
 - Niveau 6 (équivalent Bac +3/4) sur la grille européenne.
