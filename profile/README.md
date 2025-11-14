@@ -1,8 +1,19 @@
 # Titre Professionnel « Administrateur Système DevOps » (RNCP 36061)  
 *Certification de niveau 6 (Bac +3/4) – France Compétences*  
 
-## Le contenu de ce site présente mes réalisations dans le cadre de ce Titre Professionnel  « Administrateur Système DevOps »  : [Travaux d'Evaluations réalisés](https://github.com/orgs/RNCP-DevOPs-System-Administrator/repositories)  ##
-
+## Le contenu de ce site présente mes réalisations dans le cadre de ce Titre Professionnel  « Administrateur Système DevOps »  : [Projets réalisés](https://github.com/orgs/RNCP-DevOPs-System-Administrator/repositories) : ##
+* [01.Automatiser la création de serveurs à l’aide de scripts](https://github.com/RNCP-DevOPs-System-Administrator/ECF1)
+* [02.Automatiser le déploiement d’une infrastructure](https://github.com/RNCP-DevOPs-System-Administrator/ECF2)
+* [03.Sécuriser l’Infrastructure](https://github.com/RNCP-DevOPs-System-Administrator/ECF3)
+* [04.Mettre l’Infrastructure en Production dans le Cloud](https://github.com/RNCP-DevOPs-System-Administrator/ECF4)
+* [05.Préparer un environnement de test](https://github.com/RNCP-DevOPs-System-Administrator/ECF5)
+* [06.Gérer le stockage des données](https://github.com/RNCP-DevOPs-System-Administrator/ECF6)
+* [07.Gérer des containers](https://github.com/RNCP-DevOPs-System-Administrator/ECF7)
+* [08.Automatiser la mise en production d’une application avec une plateforme](https://github.com/RNCP-DevOPs-System-Administrator/ECF8)
+* [09.Définir et mettre en place des statistiques de services](https://github.com/RNCP-DevOPs-System-Administrator/ECF9)
+* [10.Exploiter une solution de supervision](https://github.com/RNCP-DevOPs-System-Administrator/ECF10)
+* [11.Echanger sur des réseaux professionnels](https://github.com/RNCP-DevOPs-System-Administrator/ECF11)
+  
 ## 🎯 Présentation  
 - La certification « Administrateur Système DevOps » vise à former des professionnels capables de prendre en charge l’automatisation, le déploiement, la supervision et l’exploitation d’infrastructures et d’applications dans un contexte DevOps. 
 - Cette certification est enregistrée au Répertoire National des Certifications Professionnelles (RNCP 36061)
