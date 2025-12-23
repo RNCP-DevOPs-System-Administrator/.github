@@ -13,6 +13,7 @@
 * [09.Définir et mettre en place des statistiques de services](https://github.com/RNCP-DevOPs-System-Administrator/ECF9)
 * [10.Exploiter une solution de supervision](https://github.com/RNCP-DevOPs-System-Administrator/ECF10)
 * [11.Echanger sur des réseaux professionnels](https://github.com/RNCP-DevOPs-System-Administrator/ECF11)
+* [***Final Project DevSecOps***](https://github.com/RNCP-DevOPs-System-Administrator/DevSecOps-Project)
   
 ## 🎯 Présentation  
 - La certification « Administrateur Système DevOps » vise à former des professionnels capables de prendre en charge l’automatisation, le déploiement, la supervision et l’exploitation d’infrastructures et d’applications dans un contexte DevOps. 
